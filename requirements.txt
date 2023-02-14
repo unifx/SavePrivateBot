@@ -5,3 +5,4 @@ ethon
 cryptg
 tgcrypto
 pyrogram==1.4.16
+python==3.11
